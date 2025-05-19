@@ -11,7 +11,6 @@ This is my personal developer portfolio, built with HTML and Tailwind CSS. It sh
 ## 🌐 Live Website
 You can view the portfolio live at: [https://hrithxk.github.io/hrutik-portfolio](https://hrithxk.github.io/hrutik-portfolio)
 
-> Replace `yourusername` with your actual GitHub username once the site is live.
 
 ## 📁 Technologies Used
 - HTML5
@@ -23,12 +22,3 @@ You can view the portfolio live at: [https://hrithxk.github.io/hrutik-portfolio]
 - LinkedIn: [Hrutik Suryawanshi](https://www.linkedin.com/in/hrutik-suryawanshi-440459244)
 
 ---
-
-### 🚀 How to Use This Repo
-
-To clone and run this project locally:
-
-```bash
-git clone https://github.com/yourusername/hrutik-portfolio.git
-cd hrutik-portfolio
-# open index.html in your browser
